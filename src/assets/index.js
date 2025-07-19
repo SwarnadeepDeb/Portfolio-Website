@@ -20,17 +20,17 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import Kubernetes from "./tech/Kubernetes.png";
+import Kubernetes from "./tech/kubernetes.png";
 
 import Redis from "./tech/Redis.png";
-import Kafka from "./tech/Kafka.png";
+import Kafka from "./tech/kafka.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import DcInfotech from "./company/DcInfotech.png";
+import DcInfotech from "./company/dcInfotech.png";
 import galvinus from "./company/galvinus.png";
 
 import carrent from "./carrent.png";
