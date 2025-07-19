@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import Kubernetes from "./tech/kubernetes.png";
 
-import Redis from "./tech/Redis.png";
+import Redis from "./tech/redis.png";
 import Kafka from "./tech/kafka.png";
 
 import meta from "./company/meta.png";
