@@ -30,7 +30,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import DcInfotech from "./company/dcInfotech.png";
+import DcInfotech from "./company/dcinfotech.png";
 import galvinus from "./company/galvinus.png";
 
 import carrent from "./carrent.png";
